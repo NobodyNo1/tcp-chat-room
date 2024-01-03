@@ -24,3 +24,9 @@ The client functionality is separated into two threads. The first thread manages
 *   Book: [UNIX Network Programming](https://en.wikipedia.org/wiki/UNIX_Network_Programming)
 *   Length Prefix Framing: [Length Prefix Framing for Protocol Buffers](https://eli.thegreenplace.net/2011/08/02/length-prefix-framing-for-protocol-buffers)
 *   TUI Insights: [How to make TUI](https://p.janouch.name/article-tui.html)
+
+## TODO:
+
+- [ ] UTF-8 encoding
+- [ ] Raygui Support 
+- [ ] Windows support for server
